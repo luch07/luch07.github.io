@@ -9,7 +9,7 @@ Analysis of interdependencies between cryptocurrencies and real asssets realized
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/portfolioEUROYEN.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
