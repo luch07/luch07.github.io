@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+Analysis of interdependencies between cryptocurrencies and real asssets realized volatility changes(/sample_page)
 <img src="images/thesisportfolio.png?raw=true"/>
 
 ---
