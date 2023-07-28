@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-Analysis of interdependencies between cryptocurrencies and real asssets realized volatility changes(pdf/thesis.pdf)
+Analysis of interdependencies between cryptocurrencies and real asssets realized volatility changes(/pdf/thesis.pdf)
 <img src="images/thesisportfolio.png?raw=true"/>
 
 ---
