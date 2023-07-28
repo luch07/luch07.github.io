@@ -1,12 +1,11 @@
 title: Daniil Luchin # your name (or website title) here
 logo: "/images/photo1664133688.jpeg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-<br>
-Experienced Data Analyst with a degree from the Higher School of Economics. 
-  <br><br>
-  Second description 
-  <br><br>
+description: |
+  Experienced Data Analyst with a degree from the Higher School of Economics.
+
+  Second description
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
