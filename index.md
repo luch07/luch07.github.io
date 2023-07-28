@@ -12,7 +12,7 @@
 <img src="images/portfolioEUROYEN.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[CPI of Niger:rise or fall?](/pdf/nigercpi.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
