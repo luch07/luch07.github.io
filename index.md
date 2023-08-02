@@ -8,7 +8,7 @@
 <img src="images/thesisportfolio.png?raw=true"/>
 
 ---
-Forecasting realized volatility using machine learning and mixed-frequency data (the case of the Russian Stock Market)(/pdf/Article3.pdf)
+[Forecasting realized volatility using machine learning and mixed-frequency data (the case of the Russian Stock Market)](/pdf/Article3.pdf)
 <img src="images/articleplots.png?raw=true"/>
 
 ---
