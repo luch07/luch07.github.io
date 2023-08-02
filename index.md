@@ -13,7 +13,7 @@
 
 ---
 [CPI of Niger:rise or fall?](/pdf/nigercpi.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Nigercpi.png?raw=true"/>
 
 ---
 
