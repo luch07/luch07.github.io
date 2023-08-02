@@ -2,8 +2,15 @@ title: Daniil Luchin # your name (or website title) here
 logo: "/images/photo1664133688.jpeg?raw=true" # your photo (or logo) here
 description: |
   Experienced Data Analyst with a degree from the Higher School of Economics.
-
-  Second description
+ Experience:
+ 2019-2021 AG SPORTRADAR Data Scientist 
+ 2021-2023 COEX Business Analyst
+ Skills:
+ Rstudio
+ Python
+ HTML/CSS
+ Power BI
+ Excel
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
